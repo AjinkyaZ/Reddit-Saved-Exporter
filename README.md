@@ -7,3 +7,4 @@ Once done, click on edit below the app's icon to get the CLIENT_SECRET.
 The CLIENT_ID is located right under the app's name.  
 
 Based on [github.com/export-saved-reddit](https://github.com/csu/export-saved-reddit), which is probably way more powerful/extensive.  
+Requires [Praw](https://github.com/praw-dev/praw). To install, just type ```pip install praw``` in your terminal.  
